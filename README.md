@@ -1,3 +1,3 @@
 # __TIL__
 ------
-* [total](https://github.com/pokabook/TIL/blob/main/Network/OSI%207Layer.md)
+* [total](https://pokabook.notion.site/Study-fffc1be642e148538a9c1ab63e9a509f)

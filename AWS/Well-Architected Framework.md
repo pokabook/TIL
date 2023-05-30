@@ -29,7 +29,7 @@
 - 모든 데이터를 보호하도록 설계 (전송 중인 데이터, 정적 데이터)
 - 보안 이벤트를 준비 (침입탐지, ddos 등)
 - 모든 계층 (OSI 7 Layer) 에 대해 보안을 적용
-![security.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F38d36969-1ba0-4065-8f5b-4d00390446e1%2FUntitled.png?table=block&id=687bf7be-04ef-46b7-a345-4c99085ee57c&spaceId=ca1f5917-2d21-4982-9954-5f23844805f2&width=2000&userId=467b3a39-e763-4668-abf0-2feb9074a9e6&cache=v2)
+![security.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8d264176-6ce0-4d96-a68c-5aa905e2906a%2FUntitled.png?table=block&id=2b05e0ea-e0af-4532-bb99-d2409d693453&spaceId=ca1f5917-2d21-4982-9954-5f23844805f2&width=2000&userId=467b3a39-e763-4668-abf0-2feb9074a9e6&cache=v2)
 
 ### 안전성
 

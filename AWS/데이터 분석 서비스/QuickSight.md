@@ -2,7 +2,7 @@
 
 ### QuickSight
 
-![Untitled](https://github.com/pokabook/TIL/blob/main/AWS/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/QuickSight.png?raw=true)
+![QuickSight](https://github.com/pokabook/TIL/assets/103029701/8647a316-2b68-4f59-a65d-c6121e6be009)
 
 - 클라우드 기반의 비즈니스 인텔리전스 도구
 - 대시보드, 그래프 등의 시각화를 통한 데이터 분석을 통해 의사결정을 도와주는 서비스

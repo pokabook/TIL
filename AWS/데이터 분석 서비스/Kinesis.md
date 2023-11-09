@@ -17,7 +17,7 @@
 - 스트리밍 데이터를 **Lambda**, **Kinesis Data Analytics**, **Kinesis Data firehose** 등으로 전송
 - 데이터 스토리지가 있음 (1 ~ 365 일 사이의 기간으로 데이터를 보관)
 
-![image 14.png](https://github.com/pokabook/TIL/blob/main/AWS/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Kinesis-Data-Streams.png?raw=true)
+![Kinesis-Data-Streams](https://github.com/pokabook/TIL/assets/103029701/4f16d62b-daa7-4c8e-a01c-82d59183b4aa)
 
 **Kinesis Data Firehose**
 
@@ -27,7 +27,7 @@
 - 거의 실시간 서비스
 - 데이터 스토리지가 없음 (데이터를 저장하지 않음)
 
-![Untitled](https://github.com/pokabook/TIL/blob/main/AWS/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Kinesis-Data-Firehose.png?raw=true)
+![Kinesis-Data-Firehose](https://github.com/pokabook/TIL/assets/103029701/fd90d8a4-a357-4ec8-a04a-df8e4a007b8e)
 
 **Kinesis Data Analytics**
 
@@ -35,7 +35,7 @@
 - `Apache Flink`는 데이터 스트림을 처리를 위한 오픈 소스 프레임워크 및 엔진
 - **Kinesis Data Streams** 및 **Kiensis Data Firehose** 스트리밍 소스로부터의 데이터 수집 가능
 
-![Untitled](https://github.com/pokabook/TIL/blob/main/AWS/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Kinesis-Data-Analytics.png?raw=true)
+![Kinesis-Data-Analytics](https://github.com/pokabook/TIL/assets/103029701/4a0e7fe8-1438-4bce-8777-91ed2d82acc3)
 
 **Kinesis Video Streams**
 
@@ -43,4 +43,4 @@
 - 수백만 개의 소스에서 방대한 양의 라이브 비디오 데이터를 캡처할 수 있음
 - 오디오 데이터, 열 화상 이미지, 깊이 데이터, RADAR 데이터 등과 같은 비 비디오 시간 직렬화 데이터를 보낼 수 있음
 
-![Untitled](https://github.com/pokabook/TIL/blob/main/AWS/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Kinesis-Video-Streams.png?raw=true)
+![Kinesis-Video-Streams](https://github.com/pokabook/TIL/assets/103029701/e30f9a50-936f-4f40-b401-f9b867fdd3b9)

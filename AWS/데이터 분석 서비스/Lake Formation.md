@@ -9,7 +9,7 @@
 
 ### 과정
 
-![Untitled](https://github.com/pokabook/TIL/blob/main/AWS/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Lake-Formation.png?raw=true)
+![Lake-Formation](https://github.com/pokabook/TIL/assets/103029701/79ae9923-df6d-4583-a220-9abeddfc4270)
 
 1. **S3**, **Relational** 및 **NoSQL 데이터베이스**의 기존 데이터 스토어를 식별하고 데이터를 **데이터 레이크**로 이동
 2. 분석을 위해 데이터를 크롤링하고 카탈로그를 작성하고 준비

@@ -8,7 +8,7 @@
 
 ### Multi-Account
 
-![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Multi-Account.png?raw=true)
+![Multi-Account](https://github.com/pokabook/TIL/assets/103029701/31dc30b5-bbdf-4bb1-8bc3-8419f78332a7)
 
 > **SCP (Service Control Policy)**
 >

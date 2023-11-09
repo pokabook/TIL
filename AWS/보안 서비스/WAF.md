@@ -2,7 +2,7 @@
 
 ### WAF (Web Application Firewall)
 
-![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/WAF.png?raw=true)
+![WAF](https://github.com/pokabook/TIL/assets/103029701/cfba18bc-f81d-48a7-8181-874420e9a065)
 
 - HTTP / HTTPS 트래픽을 모니터링하고 차단함으로써 고객의 웹 어플리케이션을 보호하는 도구
 - 관리형 웹 방화벽 서비스
@@ -15,4 +15,4 @@
 
 ### WAF Architecture
 
-![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/WAF-Architecture.png?raw=true)
+![WAF-Architecture](https://github.com/pokabook/TIL/assets/103029701/45a844b5-e9b1-4e06-b73d-9d6b05491eba)

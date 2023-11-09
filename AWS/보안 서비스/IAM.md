@@ -8,7 +8,7 @@
 
 ### Policy
 
-![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Policy.png?raw=true)
+![Policy](https://github.com/pokabook/TIL/assets/103029701/18399005-1b64-4985-b056-7520b3850271)
 
 - 리소스의 접근 권한을 정의하는 정책
 - `JSON` 문서 형식으로 이루어짐
@@ -49,18 +49,17 @@
   - 역할기반 접근제어 정책
   - 역할을 생성하고 해당 역할이 접근할 수 있는 리소스를 명시한 후 접근을 제어
 
-    ![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/RBAC.png?raw=true) 
-
+    ![RBAC](https://github.com/pokabook/TIL/assets/103029701/0f737c51-0734-4b2f-bf01-9b783b44daac)
 - **ABAC (Attribute Base Access Control)**
   - 속성기반 접근제어 정책
   - 역할을 tag로 정의하고 연결하여 사용
   - 빠르고 확장성 있는 접근 제어가 가능
 
-    ![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/ABAC.png?raw=true)
+    ![ABAC](https://github.com/pokabook/TIL/assets/103029701/841ac112-b3aa-45f9-8558-06ba3f7d3d1b)
 
 ### Role
 
-![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Role.png?raw=true)
+![Role](https://github.com/pokabook/TIL/assets/103029701/866de4f7-f7cf-464b-ae07-08048770a796)
 
 - AWS 리소스에서 사용하는 자격증명
 - 특정 AWS 서비스가 다른 AWS 서비스에 엑세스 하여 작업을 수행할 때 필요한 권한

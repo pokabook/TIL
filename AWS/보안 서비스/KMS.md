@@ -2,7 +2,7 @@
 
 ### KMS (Key Management Service)
 
-![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/KMS.png?raw=true)
+![image](https://github.com/pokabook/TIL/assets/103029701/3501082d-75cf-43f6-9c96-89e822a5e0b4)
 
 - AWS에서 제공하는 암호화 키를 생성 및 관리하는 서비스
 - 리소스 데이터 암호화 / 복호화
@@ -18,7 +18,7 @@
 - **서버측 암호화** : 서버에 저장된 데이터를 암호화
 - **클라이언트측 암호화** : 데이터를 보내기전에 암호화
 
-    ![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/KMS-encryption.png?raw=true)
+![KMS-encryption](https://github.com/pokabook/TIL/assets/103029701/611cd74c-5922-4750-9e72-5d854725d176)
 
 ### 3가지 키 지원 방식
 
@@ -36,7 +36,7 @@
 
 ### 다중 리전 키 (Multi-Region Keys)
 
-![img](https://github.com/pokabook/TIL/blob/main/AWS/%EB%B3%B4%EC%95%88%20%EC%84%9C%EB%B9%84%EC%8A%A4/image/Multi-Region-Keys.png?raw=true)
+![Multi-Region-Keys](https://github.com/pokabook/TIL/assets/103029701/e420ec54-362b-4a6b-a06e-88e1ecfc3a0f)
 
 - 여러 리전에서 동일한 키를 가지고 있는 것
 - 다중 리전 키의 각 세트에는 동일한 키 구성 요소와 키 ID가 있으므로 **KMS**를 다시 암호화하거나 크로스 리전 호출을 수행하지 않고 하나의 AWS 리전에서 데이터를 암호화 하고 다른 AWS 리전에서 복호화 가능

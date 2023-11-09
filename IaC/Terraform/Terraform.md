@@ -45,7 +45,7 @@
 
 ### Terraform Flow
 
-![img](https://github.com/pokabook/TIL/blob/main/IaC/image/Terraform-Flow.png?raw=true)
+![img](https://github.com/pokabook/TIL/assets/103029701/ea0950e0-cb2b-421c-851b-a4026957bf40)
 
 1. Terraform 구성 소스
    - 현재 관리자가 작성 혹은 수정하고 있는 코드

@@ -66,7 +66,6 @@
 ┃   ┣━ 📄[**L2Switch**](./Network/L2Switch.md)<br>
 ┃   ┗━ 📄[**OSI 7Layer**](./Network/OSI%207Layer.md)<br>
 ┣━ 📄[**README**](./README.md)<br>
-┣━ 📄[**README**](./README.mdn)<br>
 ┣━ 📂[**Serverless**](./Serverless)<br>
 ┃   ┣━ 📄[**FaaS 성능 최적화**](./Serverless/FaaS%20성능%20최적화.md)<br>
 ┃   ┣━ 📄[**Serverless Framework**](./Serverless/Serverless%20Framework.md)<br>
@@ -76,4 +75,4 @@
     ┣━ 📄[**JMeter**](./성능%20테스트/JMeter.md)<br>
     ┗━ 📄[**성능 테스트**](./성능%20테스트/성능%20테스트.md)<br>
 
-13 directories, 60 files
+13 directories, 59 files

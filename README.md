@@ -1,6 +1,10 @@
 # __TIL__
 -----
 
+### 규칙
+> 1. AI 채팅 솔루션을 사용하지 않습니다.
+> 2. 공식 문서 -> 강의, 책 -> 블로그 순으로 학습한 후 정리합니다.
+
 📦[**.**](.)<br>
 ┣━ 📂[**AWS**](./AWS)<br>
 ┃ㅤㅤ┣━ 📄[**Well-Architected Framework**](./AWS/Well-Architected%20Framework.md)<br>

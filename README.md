@@ -76,11 +76,13 @@
 ┣━ 📂[**Kubernetes**](./Kubernetes)<br>
 ┃ㅤㅤ┣━ 📄[**DaemonSet**](./Kubernetes/DaemonSet.md)<br>
 ┃ㅤㅤ┣━ 📄[**Deployment**](./Kubernetes/Deployment.md)<br>
+┃ㅤㅤ┣━ 📄[**Ingress**](./Kubernetes/Ingress.md)<br>
 ┃ㅤㅤ┣━ 📄[**Kubernetes**](./Kubernetes/Kubernetes.md)<br>
 ┃ㅤㅤ┣━ 📄[**Namespace**](./Kubernetes/Namespace.md)<br>
 ┃ㅤㅤ┣━ 📄[**Node**](./Kubernetes/Node.md)<br>
 ┃ㅤㅤ┣━ 📄[**Pod**](./Kubernetes/Pod.md)<br>
-┃ㅤㅤ┗━ 📄[**ReplicaSet**](./Kubernetes/ReplicaSet.md)<br>
+┃ㅤㅤ┣━ 📄[**ReplicaSet**](./Kubernetes/ReplicaSet.md)<br>
+┃ㅤㅤ┗━ 📄[**Service**](./Kubernetes/Service.md)<br>
 ┣━ 📂[**Network**](./Network)<br>
 ┃ㅤㅤ┣━ 📄[**L2Switch**](./Network/L2Switch.md)<br>
 ┃ㅤㅤ┗━ 📄[**OSI 7Layer**](./Network/OSI%207Layer.md)<br>
@@ -94,4 +96,4 @@
 ㅤㅤㅤ┣━ 📄[**JMeter**](./성능%20테스트/JMeter.md)<br>
 ㅤㅤㅤ┗━ 📄[**성능 테스트**](./성능%20테스트/성능%20테스트.md)<br>
 
-16 directories, 71 files
+16 directories, 73 files

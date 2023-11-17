@@ -74,6 +74,7 @@
 ┃ㅤㅤ┗━ 📂[**Terraform**](./IaC/Terraform)<br>
 ┃ㅤㅤㅤㅤㅤ┗━ 📄[**Terraform**](./IaC/Terraform/Terraform.md)<br>
 ┣━ 📂[**Kubernetes**](./Kubernetes)<br>
+┃ㅤㅤ┣━ 📄[**Architecture**](./Kubernetes/Architecture.md)<br>
 ┃ㅤㅤ┣━ 📄[**Cluster Autoscaler**](./Kubernetes/Cluster%20Autoscaler.md)<br>
 ┃ㅤㅤ┣━ 📄[**ConfigMap**](./Kubernetes/ConfigMap.md)<br>
 ┃ㅤㅤ┣━ 📄[**DaemonSet**](./Kubernetes/DaemonSet.md)<br>
@@ -81,8 +82,10 @@
 ┃ㅤㅤ┣━ 📄[**Env**](./Kubernetes/Env.md)<br>
 ┃ㅤㅤ┣━ 📄[**Horizontal Pod Autoscaler**](./Kubernetes/Horizontal%20Pod%20Autoscaler.md)<br>
 ┃ㅤㅤ┣━ 📄[**Ingress**](./Kubernetes/Ingress.md)<br>
+┃ㅤㅤ┣━ 📄[**Kubernetes 구축 환경**](./Kubernetes/Kubernetes%20구축%20환경.md)<br>
 ┃ㅤㅤ┣━ 📄[**Kubernetes**](./Kubernetes/Kubernetes.md)<br>
 ┃ㅤㅤ┣━ 📄[**Metric Server**](./Kubernetes/Metric%20Server.md)<br>
+┃ㅤㅤ┣━ 📄[**Minikube**](./Kubernetes/Minikube.md)<br>
 ┃ㅤㅤ┣━ 📄[**Namespace**](./Kubernetes/Namespace.md)<br>
 ┃ㅤㅤ┣━ 📄[**Network Policy**](./Kubernetes/Network%20Policy.md)<br>
 ┃ㅤㅤ┣━ 📄[**Node**](./Kubernetes/Node.md)<br>
@@ -92,7 +95,8 @@
 ┃ㅤㅤ┣━ 📄[**Service Account**](./Kubernetes/Service%20Account.md)<br>
 ┃ㅤㅤ┣━ 📄[**Service**](./Kubernetes/Service.md)<br>
 ┃ㅤㅤ┣━ 📄[**Vertical Pod Autoscaler**](./Kubernetes/Vertical%20Pod%20Autoscaler.md)<br>
-┃ㅤㅤ┗━ 📄[**Volume**](./Kubernetes/Volume.md)<br>
+┃ㅤㅤ┣━ 📄[**Volume**](./Kubernetes/Volume.md)<br>
+┃ㅤㅤ┗━ 📄[**동작 방식**](./Kubernetes/동작%20방식.md)<br>
 ┣━ 📂[**Network**](./Network)<br>
 ┃ㅤㅤ┣━ 📄[**L2Switch**](./Network/L2Switch.md)<br>
 ┃ㅤㅤ┗━ 📄[**OSI 7Layer**](./Network/OSI%207Layer.md)<br>
@@ -106,4 +110,4 @@
 ㅤㅤㅤ┣━ 📄[**JMeter**](./성능%20테스트/JMeter.md)<br>
 ㅤㅤㅤ┗━ 📄[**성능 테스트**](./성능%20테스트/성능%20테스트.md)<br>
 
-16 directories, 83 files
+16 directories, 87 files

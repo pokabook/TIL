@@ -82,6 +82,8 @@
 ┃ㅤㅤ┣━ 📄[**Env**](./Kubernetes/Env.md)<br>
 ┃ㅤㅤ┣━ 📄[**Horizontal Pod Autoscaler**](./Kubernetes/Horizontal%20Pod%20Autoscaler.md)<br>
 ┃ㅤㅤ┣━ 📄[**Ingress**](./Kubernetes/Ingress.md)<br>
+┃ㅤㅤ┣━ 📄[**Kube-apiserver**](./Kubernetes/Kube-apiserver.md)<br>
+┃ㅤㅤ┣━ 📄[**Kube-scheduler**](./Kubernetes/Kube-scheduler.md)<br>
 ┃ㅤㅤ┣━ 📄[**Kubernetes 구축 환경**](./Kubernetes/Kubernetes%20구축%20환경.md)<br>
 ┃ㅤㅤ┣━ 📄[**Kubernetes**](./Kubernetes/Kubernetes.md)<br>
 ┃ㅤㅤ┣━ 📄[**Metric Server**](./Kubernetes/Metric%20Server.md)<br>
@@ -110,4 +112,4 @@
 ㅤㅤㅤ┣━ 📄[**JMeter**](./성능%20테스트/JMeter.md)<br>
 ㅤㅤㅤ┗━ 📄[**성능 테스트**](./성능%20테스트/성능%20테스트.md)<br>
 
-16 directories, 87 files
+16 directories, 89 files
